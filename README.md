@@ -1,2 +1,3 @@
 # react-quiz-app
-Practice typescript 
+
+A React app using CRA, Typescript and styled components - From youTube tutorial
